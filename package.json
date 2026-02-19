@@ -17,9 +17,9 @@
     "main": "main.js",
     "devDependencies": {
         "concurrently": "7.0.0",
-        "cypress": "9.3.1",
+        "cypress": "15.10.0",
         "http-server": "14.1.0",
-        "lerna": "5.1.8",
+        "lerna": "5.6.2",
         "maildev": "git+https://github.com/padloc/maildev.git#master",
         "prettier": "2.5.1",
         "ts-node": "10.0.0",
